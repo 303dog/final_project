@@ -1,0 +1,7 @@
+{category: "General Knowledge", type: "multiple", difficulty: "easy", question: "What is the French word for &quot;hat&quot;?", correct_answer: "Chapeau", …}
+category: "General Knowledge"
+correct_answer: "Chapeau"
+difficulty: "easy"
+incorrect_answers: (3) ["Bonnet", " &Eacute;charpe", " Casque"]
+question: "What is the French word for &quot;hat&quot;?"
+type: "multiple"
