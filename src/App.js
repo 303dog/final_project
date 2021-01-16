@@ -1,8 +1,8 @@
 import './App.css';
-import ApiToTest from './containers/TriviaContainer';
+import NasaContainer from './containers/NasaContainer';
 
 function App() {
-    return <ApiToTest />;
+    return <NasaContainer />;
 }
 
 export default App;
